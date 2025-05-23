@@ -1,0 +1,57 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 180px;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: orange;
+    margin: 0;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+body {
+    background-image: url("../img/HomepageBakgrund.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.text {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: orange;
+}
+
+.quotes {
+    display: flex;
+    justify-content: center;
+}
+
+#Portal {
+    color:orange;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+
+}
+
+
+
