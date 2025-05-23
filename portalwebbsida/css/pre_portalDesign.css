@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: lightblue;
+    text-align: justify;
+    padding: 14px 168px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: black;
+}
+
+body {
+    background-image: url("../img/portalgrej2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: orange;
+}
+
+img {
+    float: right;
+}
+
+.text {
+    background-color: rgba(0, 0, 0, 0.6);
+}
